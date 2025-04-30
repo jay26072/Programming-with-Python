@@ -1,0 +1,21 @@
+<users>
+
+    <user>
+        <name>Jay Patel</name>
+        <age>23</age>
+        <city>Bardoli</city>
+    </user>
+
+    <user>
+        <name>Kevin Parmar</name>
+        <age>21</age>
+        <city>Surat</city>
+    </user>
+
+    <user>
+        <name>Aditi Patel</name>
+        <age>22</age>
+        <city>Ahemdabad</city>
+    </user>
+
+</users>

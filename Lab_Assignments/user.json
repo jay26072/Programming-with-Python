@@ -1,0 +1,19 @@
+{
+    "users":[
+        {
+            "name":"Jay Patel",
+            "age":23,
+            "city":"Bardoli"
+        },
+        {
+            "name":"Kevin Parmar",
+            "age":21,
+            "city":"Surat"
+        },
+        {
+            "name":"Aditi Patel",
+            "age":22,
+            "city":"Ahmedabad"
+        }
+    ]
+}
